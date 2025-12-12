@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WxProg. I am self-taught Software Enignee in learning!
+- 👋 Hi, I’m @WxProg.
 - 👀 I’m interested in being a Meteorological Developer
 - 🌱 I’m currently learning CSS3, HTML5, Javascript and Python
 - 📫 How to reach me ...
